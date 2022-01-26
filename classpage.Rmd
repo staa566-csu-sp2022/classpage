@@ -1,0 +1,261 @@
+---
+title: "STAA 566 Data Visualization"
+subtitle: "Colorado State University | Spring 2022"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+---
+
+<style>
+
+h1.title {
+  color: black;
+}
+
+h2.subtitle {
+  color: black;
+}
+
+
+a:link {
+  color: black; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+This page contains links to all assignments completed for the class. Links the do not work are for assigments that have not yet been forked to the class organization.
+
+## Example
+
+[Example](https://staa566-csu-sp2022.github.io/HW1_Wilson_Ander/) [(repo)](https://github.com/staa566-csu-sp2022/HW1_Wilson_Ander)
+
+## HW 1: ggplot2 and GitHub
+
+[AbhinayReddy Manda](https://staa566-csu-sp2022.github.io/HW1_Manda_AbhinayReddy)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Manda_AbhinayReddy)
+
+[Alexis Suhr](https://staa566-csu-sp2022.github.io/HW1_Suhr_Alexis)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Suhr_Alexis)
+
+[Brian Leonhardi](https://staa566-csu-sp2022.github.io/HW1_Leonhardi_Brian)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Leonhardi_Brian)
+
+[Claudia Santillan-Lensink](https://staa566-csu-sp2022.github.io/HW1_Santillan-Lensink_Claudia)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Santillan-Lensink_Claudia)
+
+[Grace Entwistle](https://staa566-csu-sp2022.github.io/HW1_Entwistle_Grace)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Entwistle_Grace)
+
+[Ian Hempe](https://staa566-csu-sp2022.github.io/HW1_Hempe_Ian)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Hempe_Ian)
+
+[Jacob Ellis](https://staa566-csu-sp2022.github.io/HW1_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Ellis_Jacob)
+
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW1_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_O'Brien_Jess)
+
+[Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW1_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Gahagan_Kyle)
+
+[Lori Hernandez](https://staa566-csu-sp2022.github.io/HW1_Hernandez_Lori)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Hernandez_Lori)
+
+[Mateo Forero](https://staa566-csu-sp2022.github.io/HW1_Forero_Mateo)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Forero_Mateo)
+
+[Matt Houtz](https://staa566-csu-sp2022.github.io/HW1_Houtz_Matt)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Houtz_Matt)
+
+[Phong Nguyen](https://staa566-csu-sp2022.github.io/HW1_Nguyen_Phong)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Nguyen_Phong)
+
+[Ritchie Bradley](https://staa566-csu-sp2022.github.io/HW1_Bradley_Ritchie)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Bradley_Ritchie)
+
+[Ruth Hilton](https://staa566-csu-sp2022.github.io/HW1_Hilton_Ruth)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Hilton_Ruth)
+
+[Ryan Miller](https://staa566-csu-sp2022.github.io/HW1_Miller_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Miller_Ryan)
+
+[Ryan Rogala](https://staa566-csu-sp2022.github.io/HW1_Rogala_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Rogala_Ryan)
+
+[Sherry Schulz](https://staa566-csu-sp2022.github.io/HW1_Schulz_Sherry)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Schulz_Sherry)
+
+[Suzanne Brenimer](https://staa566-csu-sp2022.github.io/HW1_Brenimer_Suzanne)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Brenimer_Suzanne)
+
+[Tanner Brooks](https://staa566-csu-sp2022.github.io/HW1_Brooks_Tanner)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Brooks_Tanner)
+
+[Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW1_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Purevjav_Tuul)
+
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW1_Balasubramanian_Venkat)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Balasubramanian_Venkat)
+
+[Will Paces](https://staa566-csu-sp2022.github.io/HW1_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Paces_Will)
+
+[Yingzhen Wang](https://staa566-csu-sp2022.github.io/HW1_Wang_Yingzhen)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Wang_Yingzhen)
+
+## HW 2: Dynamic Figures
+
+[AbhinayReddy Manda](https://staa566-csu-sp2022.github.io/HW2_Manda_AbhinayReddy)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Manda_AbhinayReddy)
+
+[Alexis Suhr](https://staa566-csu-sp2022.github.io/HW2_Suhr_Alexis)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Suhr_Alexis)
+
+[Brian Leonhardi](https://staa566-csu-sp2022.github.io/HW2_Leonhardi_Brian)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Leonhardi_Brian)
+
+[Claudia Santillan-Lensink](https://staa566-csu-sp2022.github.io/HW2_Santillan-Lensink_Claudia)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Santillan-Lensink_Claudia)
+
+[Grace Entwistle](https://staa566-csu-sp2022.github.io/HW2_Entwistle_Grace)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Entwistle_Grace)
+
+[Ian Hempe](https://staa566-csu-sp2022.github.io/HW2_Hempe_Ian)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Hempe_Ian)
+
+[Jacob Ellis](https://staa566-csu-sp2022.github.io/HW2_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Ellis_Jacob)
+
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW2_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_O'Brien_Jess)
+
+[Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW2_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Gahagan_Kyle)
+
+[Lori Hernandez](https://staa566-csu-sp2022.github.io/HW2_Hernandez_Lori)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Hernandez_Lori)
+
+[Mateo Forero](https://staa566-csu-sp2022.github.io/HW2_Forero_Mateo)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Forero_Mateo)
+
+[Matt Houtz](https://staa566-csu-sp2022.github.io/HW2_Houtz_Matt)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Houtz_Matt)
+
+[Phong Nguyen](https://staa566-csu-sp2022.github.io/HW2_Nguyen_Phong)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Nguyen_Phong)
+
+[Ritchie Bradley](https://staa566-csu-sp2022.github.io/HW2_Bradley_Ritchie)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Bradley_Ritchie)
+
+[Ruth Hilton](https://staa566-csu-sp2022.github.io/HW2_Hilton_Ruth)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Hilton_Ruth)
+
+[Ryan Miller](https://staa566-csu-sp2022.github.io/HW2_Miller_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Miller_Ryan)
+
+[Ryan Rogala](https://staa566-csu-sp2022.github.io/HW2_Rogala_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Rogala_Ryan)
+
+[Sherry Schulz](https://staa566-csu-sp2022.github.io/HW2_Schulz_Sherry)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Schulz_Sherry)
+
+[Suzanne Brenimer](https://staa566-csu-sp2022.github.io/HW2_Brenimer_Suzanne)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Brenimer_Suzanne)
+
+[Tanner Brooks](https://staa566-csu-sp2022.github.io/HW2_Brooks_Tanner)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Brooks_Tanner)
+
+[Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW2_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Purevjav_Tuul)
+
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW2_Balasubramanian_Venkat)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Balasubramanian_Venkat)
+
+[Will Paces](https://staa566-csu-sp2022.github.io/HW2_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Paces_Will)
+
+[Yingzhen Wang](https://staa566-csu-sp2022.github.io/HW2_Wang_Yingzhen)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Wang_Yingzhen)
+
+
+## HW 3: Maps
+
+[AbhinayReddy Manda](https://staa566-csu-sp2022.github.io/HW3_Manda_AbhinayReddy)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Manda_AbhinayReddy)
+
+[Alexis Suhr](https://staa566-csu-sp2022.github.io/HW3_Suhr_Alexis)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Suhr_Alexis)
+
+[Brian Leonhardi](https://staa566-csu-sp2022.github.io/HW3_Leonhardi_Brian)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Leonhardi_Brian)
+
+[Claudia Santillan-Lensink](https://staa566-csu-sp2022.github.io/HW3_Santillan-Lensink_Claudia)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Santillan-Lensink_Claudia)
+
+[Grace Entwistle](https://staa566-csu-sp2022.github.io/HW3_Entwistle_Grace)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Entwistle_Grace)
+
+[Ian Hempe](https://staa566-csu-sp2022.github.io/HW3_Hempe_Ian)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Hempe_Ian)
+
+[Jacob Ellis](https://staa566-csu-sp2022.github.io/HW3_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Ellis_Jacob)
+
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW3_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_O'Brien_Jess)
+
+[Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW3_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Gahagan_Kyle)
+
+[Lori Hernandez](https://staa566-csu-sp2022.github.io/HW3_Hernandez_Lori)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Hernandez_Lori)
+
+[Mateo Forero](https://staa566-csu-sp2022.github.io/HW3_Forero_Mateo)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Forero_Mateo)
+
+[Matt Houtz](https://staa566-csu-sp2022.github.io/HW3_Houtz_Matt)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Houtz_Matt)
+
+[Phong Nguyen](https://staa566-csu-sp2022.github.io/HW3_Nguyen_Phong)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Nguyen_Phong)
+
+[Ritchie Bradley](https://staa566-csu-sp2022.github.io/HW3_Bradley_Ritchie)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Bradley_Ritchie)
+
+[Ruth Hilton](https://staa566-csu-sp2022.github.io/HW3_Hilton_Ruth)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Hilton_Ruth)
+
+[Ryan Miller](https://staa566-csu-sp2022.github.io/HW3_Miller_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Miller_Ryan)
+
+[Ryan Rogala](https://staa566-csu-sp2022.github.io/HW3_Rogala_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Rogala_Ryan)
+
+[Sherry Schulz](https://staa566-csu-sp2022.github.io/HW3_Schulz_Sherry)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Schulz_Sherry)
+
+[Suzanne Brenimer](https://staa566-csu-sp2022.github.io/HW3_Brenimer_Suzanne)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Brenimer_Suzanne)
+
+[Tanner Brooks](https://staa566-csu-sp2022.github.io/HW3_Brooks_Tanner)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Brooks_Tanner)
+
+[Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW3_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Purevjav_Tuul)
+
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW3_Balasubramanian_Venkat)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Balasubramanian_Venkat)
+
+[Will Paces](https://staa566-csu-sp2022.github.io/HW3_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Paces_Will)
+
+[Yingzhen Wang](https://staa566-csu-sp2022.github.io/HW3_Wang_Yingzhen)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Wang_Yingzhen)
+
+
+## HW 4: Tables
+
+[AbhinayReddy Manda](https://staa566-csu-sp2022.github.io/HW4_Manda_AbhinayReddy)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Manda_AbhinayReddy)
+
+[Alexis Suhr](https://staa566-csu-sp2022.github.io/HW4_Suhr_Alexis)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Suhr_Alexis)
+
+[Brian Leonhardi](https://staa566-csu-sp2022.github.io/HW4_Leonhardi_Brian)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Leonhardi_Brian)
+
+[Claudia Santillan-Lensink](https://staa566-csu-sp2022.github.io/HW4_Santillan-Lensink_Claudia)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Santillan-Lensink_Claudia)
+
+[Grace Entwistle](https://staa566-csu-sp2022.github.io/HW4_Entwistle_Grace)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Entwistle_Grace)
+
+[Ian Hempe](https://staa566-csu-sp2022.github.io/HW4_Hempe_Ian)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Hempe_Ian)
+
+[Jacob Ellis](https://staa566-csu-sp2022.github.io/HW4_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Ellis_Jacob)
+
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW4_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_O'Brien_Jess)
+
+[Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW4_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Gahagan_Kyle)
+
+[Lori Hernandez](https://staa566-csu-sp2022.github.io/HW4_Hernandez_Lori)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Hernandez_Lori)
+
+[Mateo Forero](https://staa566-csu-sp2022.github.io/HW4_Forero_Mateo)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Forero_Mateo)
+
+[Matt Houtz](https://staa566-csu-sp2022.github.io/HW4_Houtz_Matt)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Houtz_Matt)
+
+[Phong Nguyen](https://staa566-csu-sp2022.github.io/HW4_Nguyen_Phong)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Nguyen_Phong)
+
+[Ritchie Bradley](https://staa566-csu-sp2022.github.io/HW4_Bradley_Ritchie)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Bradley_Ritchie)
+
+[Ruth Hilton](https://staa566-csu-sp2022.github.io/HW4_Hilton_Ruth)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Hilton_Ruth)
+
+[Ryan Miller](https://staa566-csu-sp2022.github.io/HW4_Miller_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Miller_Ryan)
+
+[Ryan Rogala](https://staa566-csu-sp2022.github.io/HW4_Rogala_Ryan)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Rogala_Ryan)
+
+[Sherry Schulz](https://staa566-csu-sp2022.github.io/HW4_Schulz_Sherry)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Schulz_Sherry)
+
+[Suzanne Brenimer](https://staa566-csu-sp2022.github.io/HW4_Brenimer_Suzanne)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Brenimer_Suzanne)
+
+[Tanner Brooks](https://staa566-csu-sp2022.github.io/HW4_Brooks_Tanner)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Brooks_Tanner)
+
+[Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW4_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Purevjav_Tuul)
+
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW4_Balasubramanian_Venkat)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Balasubramanian_Venkat)
+
+[Will Paces](https://staa566-csu-sp2022.github.io/HW4_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Paces_Will)
+
+[Yingzhen Wang](https://staa566-csu-sp2022.github.io/HW4_Wang_Yingzhen)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Wang_Yingzhen)
+
+
+## HW 5: Shiny Apps
+
