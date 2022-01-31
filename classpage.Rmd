@@ -70,7 +70,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Jacob Ellis](https://staa566-csu-sp2022.github.io/HW1_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Ellis_Jacob)
 
-[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW1_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_O'Brien_Jess)
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW1_OBrien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_OBrien_Jess)
 
 [Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW1_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Gahagan_Kyle)
 
@@ -120,7 +120,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Jacob Ellis](https://staa566-csu-sp2022.github.io/HW2_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Ellis_Jacob)
 
-[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW2_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_O'Brien_Jess)
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW2_OBrien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_OBrien_Jess)
 
 [Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW2_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Gahagan_Kyle)
 
@@ -171,7 +171,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Jacob Ellis](https://staa566-csu-sp2022.github.io/HW3_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Ellis_Jacob)
 
-[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW3_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_O'Brien_Jess)
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW3_OBrien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_OBrien_Jess)
 
 [Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW3_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Gahagan_Kyle)
 
@@ -222,7 +222,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Jacob Ellis](https://staa566-csu-sp2022.github.io/HW4_Ellis_Jacob)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Ellis_Jacob)
 
-[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW4_O'Brien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_O'Brien_Jess)
+[Jess O'Brien](https://staa566-csu-sp2022.github.io/HW4_OBrien_Jess)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_OBrien_Jess)
 
 [Kyle Gahagan](https://staa566-csu-sp2022.github.io/HW4_Gahagan_Kyle)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Gahagan_Kyle)
 
