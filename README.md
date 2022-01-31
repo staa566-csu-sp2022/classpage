@@ -3,4 +3,4 @@
 This page contains links to all student assignments.
 
 
-staa566-csu-sp2022.github.io
+[staa566-csu-sp2022.github.io](https://staa566-csu-sp2022.github.io)
