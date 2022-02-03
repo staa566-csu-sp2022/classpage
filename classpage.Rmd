@@ -98,7 +98,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW1_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Purevjav_Tuul)
 
-[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW1__Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW1__Balasubramanian_Venkataraman)
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW1_Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Balasubramanian_Venkataraman)
 
 [Will Paces](https://staa566-csu-sp2022.github.io/HW1_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW1_Paces_Will)
 
@@ -148,7 +148,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW2_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Purevjav_Tuul)
 
-[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW2__Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW2__Balasubramanian_Venkataraman)
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW2_Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Balasubramanian_Venkataraman)
 
 [Will Paces](https://staa566-csu-sp2022.github.io/HW2_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW2_Paces_Will)
 
@@ -199,7 +199,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW3_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Purevjav_Tuul)
 
-[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW3__Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW3__Balasubramanian_Venkataraman)
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW3_Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Balasubramanian_Venkataraman)
 
 [Will Paces](https://staa566-csu-sp2022.github.io/HW3_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW3_Paces_Will)
 
@@ -250,7 +250,7 @@ This page contains links to all assignments completed for the class. Links the d
 
 [Tuul Purevjav](https://staa566-csu-sp2022.github.io/HW4_Purevjav_Tuul)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Purevjav_Tuul)
 
-[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW4__Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW4__Balasubramanian_Venkataraman)
+[Venkat Balasubramanian](https://staa566-csu-sp2022.github.io/HW4_Balasubramanian_Venkataraman)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Balasubramanian_Venkataraman)
 
 [Will Paces](https://staa566-csu-sp2022.github.io/HW4_Paces_Will)	[(repo)](https://github.com/staa566-csu-sp2022/HW4_Paces_Will)
 
